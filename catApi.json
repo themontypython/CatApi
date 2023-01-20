@@ -6,10 +6,10 @@
         },
         "id": "abys",
         "image": {
-           "height": 1445,
-           "id": "0XYvRd7oD"
-           "url": "https://cdn2.thecatapi.com/images/0XYvRd7oD.jpg",
-           "width": 1204
+            "height": 1445,
+            "id": "0XYvRd7oD",
+            "url": "https://cdn2.thecatapi.com/images/0XYvRd7oD.jpg",
+            "width": 1204
         },
         "name": "Abyssinian",
         "cfa_url": "http://cfa.org/Breeds/BreedsAB/Abyssinian.aspx",
@@ -54,10 +54,10 @@
         },
         "id": "aege",
         "image": {
-           "height": 1445,
-           "id": "ozEvzdVM-"
-           "url": "https://cdn2.thecatapi.com/images/ozEvzdVM-.jpg",
-           "width": 1204
+            "height": 1445,
+            "id": "ozEvzdVM-",
+            "url": "https://cdn2.thecatapi.com/images/ozEvzdVM-.jpg",
+            "width": 1204
         },
         "name": "Aegean",
         "vetstreet_url": "http://www.vetstreet.com/cats/aegean-cat",
@@ -99,10 +99,10 @@
         },
         "id": "abob",
         "image": {
-           "height": 1445,
-           "id": "hBXicehMA"
-           "url": "https://cdn2.thecatapi.com/images/hBXicehMA.jpg",
-           "width": 1204
+            "height": 1445,
+            "id": "hBXicehMA",
+            "url": "https://cdn2.thecatapi.com/images/hBXicehMA.jpg",
+            "width": 1204
         },
         "name": "American Bobtail",
         "cfa_url": "http://cfa.org/Breeds/BreedsAB/AmericanBobtail.aspx",

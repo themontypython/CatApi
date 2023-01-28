@@ -61,7 +61,7 @@
             "width": 1204
         },
         "name": "Luke Skywalker",
-        "ownerName": "Han Solo"
+        "ownerName": "Han Solo",
         "vetstreet_url": "http://www.vetstreet.com/cats/aegean-cat",
         "temperament": "Affectionate, Social, Intelligent, Playful, Active",
         "origin": "Greece",
@@ -107,7 +107,7 @@
             "width": 1204
         },
         "name": "C-3PO",
-        "ownerName": "Han Solo"
+        "ownerName": "Han Solo",
         "cfa_url": "http://cfa.org/Breeds/BreedsAB/AmericanBobtail.aspx",
         "vetstreet_url": "http://www.vetstreet.com/cats/american-bobtail",
         "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/american-bobtail",
